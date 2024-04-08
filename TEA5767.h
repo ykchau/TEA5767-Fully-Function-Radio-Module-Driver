@@ -1,3 +1,12 @@
+/*
+	Project  : TEA5767
+ 	file     : TEA5767.h
+	Author   : ykchau
+ 	youtube  : youtube.com/ykchau888
+  	Licenese : GPL-3.0
+   	Please let me know if you use it commercial project.
+*/
+
 #ifndef TEA5767_H_
 #define TEA5767_H_
 
