@@ -1,5 +1,5 @@
 /*
-	Project  : TEA5767
+	Project  : LaLiMat project (https://www.youtube.com/playlist?list=PLJBKmE2nNweRXOebZjydkMEiq2pHtBMOS in Chinese)
  	file     : TEA5767.h
 	Author   : ykchau
  	youtube  : youtube.com/ykchau888
